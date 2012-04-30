@@ -43,7 +43,7 @@ test('showDir', function (t) {
           '    <h1>Index of /</h1>',
           '    <table>',
           '      <tr><td><a href="/compress">compress</a></td></tr>',
-          '      <tr><td><a href="/emptyDir">emptyDir</a></td></tr>',
+          //'      <tr><td><a href="/emptyDir">emptyDir</a></td></tr>',
           '      <tr><td><a href="/subdir">subdir</a></td></tr>',
           '      <tr><td><a href="/404.html">404.html</a></td></tr>',
           '      <tr><td><a href="/a.txt">a.txt</a></td></tr>',
