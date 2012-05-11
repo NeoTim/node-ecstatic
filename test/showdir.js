@@ -52,7 +52,7 @@ test('showDir', function (t) {
           '      <tr><td><a href="/d.js">d.js</a></td></tr>',
           '    </table>',
           '    <br>',
-          '    <address>Node.js v0.6.14/<a href="https://github.com/jesusabdullah/node-ecstatic">ecstatic</a> server running @ localhost:8080</address>',
+          '    <address>Node.js v0.6.17/<a href="https://github.com/jesusabdullah/node-ecstatic">ecstatic</a> server running @ localhost:8080</address>',
           '  </body>',
           '</html>'
       ].join('\n'));
